@@ -1,0 +1,20 @@
+<updates>
+    <update>
+        <name>DisplayNews</name>
+        <description>DisplayNews by BK</description>
+        <element>mod_dn</element>
+        <type>module</type>
+        <version>3.0.0</version>
+        <infourl title="DisplayNews 3.0.0">https://github.com/bkomraz1/mod_dn/releases/tag/3.0.0</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/bkomraz1/mod_dn/releases/download/3.0.0/DisplayNews_3.0.0.zip</downloadurl>
+            <downloadsource type="full" format="zip">https://github.com/bkomraz1/mod_dn/releases/download/3.0.0/DisplayNews_3.0.0.zip</downloadsource>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version=".*"/>
+        <client>site</client>
+        <php_minimum>7.4</php_minimum>
+    </update>
+</updates>
